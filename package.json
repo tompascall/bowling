@@ -1,0 +1,16 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "bowling game",
+  "main": "index.js",
+  "author": "tompascall",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "jest": "jest"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.3"
+  }
+}
